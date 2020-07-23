@@ -11,3 +11,5 @@
 </br>
 [Bài 6: Explicitlmtent-master](https://github.com/LeVOPhuongAnh/Explicitlmtent-master)
 </br>
+[Bài 7: ExIntent](https://github.com/LeVOPhuongAnh/ExIntent/tree/master)
+</br>
