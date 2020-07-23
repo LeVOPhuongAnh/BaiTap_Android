@@ -13,3 +13,4 @@
 </br>
 [Bài 7: ExIntent](https://github.com/LeVOPhuongAnh/ExIntent/tree/master)
 </br>
+[Bài 8:CommonGesturesActivity](https://github.com/LeVOPhuongAnh/CommonGesturesActivity)
