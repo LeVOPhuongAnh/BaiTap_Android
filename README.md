@@ -6,3 +6,6 @@
 [Bài 3: MotionEventActvity](https://github.com/LeVOPhuongAnh/MotionEventActvity)
 </br>
 [Bài 4: ImplicitIntentActivity](https://github.com/LeVOPhuongAnh/ImplicitIntentActivity)
+</br>
+[Bài 5: MenuExampleActivity](https://github.com/LeVOPhuongAnh/MenuExampleActivity)
+</br>
