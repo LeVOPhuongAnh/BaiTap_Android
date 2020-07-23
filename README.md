@@ -9,3 +9,5 @@
 </br>
 [Bài 5: MenuExampleActivity](https://github.com/LeVOPhuongAnh/MenuExampleActivity)
 </br>
+[Bài 6: Explicitlmtent-master](https://github.com/LeVOPhuongAnh/Explicitlmtent-master)
+</br>
