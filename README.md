@@ -13,4 +13,10 @@
 </br>
 [Bài 7: ExIntent](https://github.com/LeVOPhuongAnh/ExIntent/tree/master)
 </br>
-[Bài 8:CommonGesturesActivity](https://github.com/LeVOPhuongAnh/CommonGesturesActivity)
+[Bài 8: CommonGesturesActivity](https://github.com/LeVOPhuongAnh/CommonGesturesActivity)
+</br>
+[Bài 9: Thietkegiaodiennguoidung](https://github.com/LeVOPhuongAnh/Thietkegiaodiennguoidung)
+</br>
+[Bài 10: QuanLySuKien](https://github.com/LeVOPhuongAnh/QuanLySuKien)
+</br>
+[Bài 11: SOlite](https://github.com/LeVOPhuongAnh/SQLite_Anh)
